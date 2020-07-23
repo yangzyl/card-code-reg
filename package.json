@@ -1,0 +1,22 @@
+{
+  "name": "card-code-reg",
+  "version": "1.0.0",
+  "description": "check-card-code",
+  "main": "checkCardCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangzyl/card-code-reg.git"
+  },
+  "keywords": [
+    "yangli"
+  ],
+  "author": "yangli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangzyl/card-code-reg/issues"
+  },
+  "homepage": "https://github.com/yangzyl/card-code-reg#readme"
+}
